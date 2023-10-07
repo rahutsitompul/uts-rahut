@@ -1,0 +1,16 @@
+import AppLogo from './AppLogo.png';
+import IconAdd from './IconAdd.png';
+import IconLove from './IconLove.png';
+import IconFacebook from './facebook-icon.png';
+import Kucing from './kucing.jpeg';
+import Bapa from './bapa.jpeg'
+
+
+export {
+    AppLogo,
+    IconAdd,
+    IconLove,
+    IconFacebook,
+    Kucing,
+    Bapa
+}
